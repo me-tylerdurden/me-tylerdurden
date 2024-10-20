@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on opensourceproject
 - 📫 How to reach me :saurabhanilsingh689@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: i like oxygen
+- ⚡ Fun fact: i like announcing rules 
 
 <!---
 me-tylerdurden/me-tylerdurden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
