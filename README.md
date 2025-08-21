@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @me-tylerdurden
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on opensourceproject
 - 📫 How to reach me :saurabhanilsingh689@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: i like making paradoxical rules 
+
 
 <!---
 me-tylerdurden/me-tylerdurden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
