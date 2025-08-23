@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @me-tylerdurden
+- I am passionate about technology , learning programming and contributing to oss projects.
 - 💞️ I’m looking to collaborate on opensourceproject
 - 📫 How to reach me :saurabhanilsingh689@gmail.com
 - 😄 Pronouns: He
